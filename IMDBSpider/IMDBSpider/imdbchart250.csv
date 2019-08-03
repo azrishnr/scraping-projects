@@ -1,0 +1,228 @@
+directors,popularity,stars,title,writers
+Frank Darabont,91,"Tim Robbins,Morgan Freeman,Bob Gunton",The Shawshank Redemption,"Stephen King,Frank Darabont"
+Francis Ford Coppola,543,"Al Pacino,Robert De Niro,Robert Duvall",The Godfather: Part II,"Francis Ford Coppola,Mario Puzo,1 more credit"
+Francis Ford Coppola,131,"Marlon Brando,Al Pacino,James Caan",The Godfather,"Mario Puzo,Francis Ford Coppola,1 more credit"
+Christopher Nolan,95,"Christian Bale,Heath Ledger,Aaron Eckhart",The Dark Knight,"Jonathan Nolan,Christopher Nolan,3 more credits"
+Steven Spielberg,273,"Liam Neeson,Ralph Fiennes,Ben Kingsley",Schindler's List,"Thomas Keneally,Steven Zaillian"
+Sidney Lumet,228,"Henry Fonda,Lee J. Cobb,Martin Balsam",12 Angry Men,"Reginald Rose,Reginald Rose"
+Peter Jackson,350,"Elijah Wood,Viggo Mortensen,Ian McKellen",The Lord of the Rings: The Return of the King,"J.R.R. Tolkien,Fran Walsh,2 more credits"
+Quentin Tarantino,64,"John Travolta,Uma Thurman,Samuel L. Jackson",Pulp Fiction,"Quentin Tarantino,Roger Avary,1 more credit"
+Sergio Leone,611,"Clint Eastwood,Eli Wallach,Lee Van Cleef","The Good, the Bad and the Ugly","Luciano Vincenzoni,Sergio Leone,4 more credits"
+Peter Jackson,196,"Elijah Wood,Ian McKellen,Orlando Bloom",The Lord of the Rings: The Fellowship of the Ring,"J.R.R. Tolkien,Fran Walsh,2 more credits"
+David Fincher,209,"Brad Pitt,Edward Norton,Meat Loaf",Fight Club,"Chuck Palahniuk,Jim Uhls"
+Robert Zemeckis,173,"Tom Hanks,Robin Wright,Gary Sinise",Forrest Gump,"Winston Groom,Eric Roth"
+Irvin Kershner,823,"Mark Hamill,Harrison Ford,Carrie Fisher",Star Wars: Episode V - The Empire Strikes Back,"Leigh Brackett,Lawrence Kasdan,1 more credit"
+Christopher Nolan,162,"Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page",Inception,Christopher Nolan
+Peter Jackson,662,"Elijah Wood,Ian McKellen,Viggo Mortensen",The Lord of the Rings: The Two Towers,"J.R.R. Tolkien,Fran Walsh,3 more credits"
+Milos Forman,472,"Jack Nicholson,Louise Fletcher,Will Sampson",One Flew Over the Cuckoo's Nest,"Lawrence Hauben,Bo Goldman,2 more credits"
+Katsuhiro Ôtomo,,"Mitsuo Iwata,Nozomu Sasaki,Mami Koyama",Akira,"Katsuhiro Ôtomo,Izô Hashimoto,1 more credit"
+Gary Trousdale,"1,162","Paige O'Hara,Robby Benson,Jesse Corti",Beauty and the Beast,"Linda Woolverton,Brenda Chapman,9 more credits"
+Nishikant Kamat,,"Ajay Devgn,Shriya Saran,Tabu",Drishyam,"Jeethu Joseph,Upendra Sidhaye"
+Wim Wenders,"2,844","Harry Dean Stanton,Nastassja Kinski,Dean Stockwell","Paris, Texas","L.M. Kit Carson,Sam Shepard,1 more credit"
+Anurag Kashyap,"3,049","Manoj Bajpayee,Richa Chadha,Nawazuddin Siddiqui",Gangs of Wasseypur,"Akhilesh Jaiswal,Anurag Kashyap,2 more credits"
+Gore Verbinski,600,"Johnny Depp,Geoffrey Rush,Orlando Bloom",Pirates of the Caribbean: The Curse of the Black Pearl,"Ted Elliott,Terry Rossio,4 more credits"
+Hayao Miyazaki,"4,226","Anna Paquin,James Van Der Beek,Cloris Leachman",Castle in the Sky,Hayao Miyazaki
+Richard Linklater,"2,255","Ethan Hawke,Julie Delpy,Vernon Dobtcheff",Before Sunset,"Richard Linklater,Julie Delpy,5 more credits"
+Steven Spielberg,363,"Roy Scheider,Robert Shaw,Richard Dreyfuss",Jaws,"Peter Benchley,Carl Gottlieb,1 more credit"
+Victor Fleming,955,"Judy Garland,Frank Morgan,Ray Bolger",The Wizard of Oz,"Noel Langley,Florence Ryerson,3 more credits"
+James Gunn,142,"Chris Pratt,Vin Diesel,Bradley Cooper",Guardians of the Galaxy,"James Gunn,Nicole Perlman,9 more credits"
+Harold Ramis,"1,179","Bill Murray,Andie MacDowell,Chris Elliott",Groundhog Day,"Danny Rubin,Harold Ramis,1 more credit"
+Richard Kelly,367,"Jake Gyllenhaal,Jena Malone,Mary McDonnell",Donnie Darko,Richard Kelly
+Richard Attenborough,"2,631","Ben Kingsley,John Gielgud,Rohini Hattangadi",Gandhi,John Briley
+Tate Taylor,476,"Emma Stone,Viola Davis,Octavia Spencer",The Help,"Tate Taylor,Kathryn Stockett"
+John Huston,"4,662","Humphrey Bogart,Mary Astor,Gladys George",The Maltese Falcon,"John Huston,Dashiell Hammett"
+Kar-Wai Wong,"2,140","Tony Chiu-Wai Leung,Maggie Cheung,Ping Lam Siu",In the Mood for Love,Kar-Wai Wong
+Mathieu Kassovitz,,"Vincent Cassel,Hubert Koundé,Saïd Taghmaoui",La Haine,Mathieu Kassovitz
+Chan-wook Park,941,"Min-hee Kim,Jung-woo Ha,Jin-Woong Cho",The Handmaiden,"Sarah Waters,Seo-kyeong Jeong,1 more credit"
+James Cameron,286,"Arnold Schwarzenegger,Linda Hamilton,Michael Biehn",The Terminator,"James Cameron,Gale Anne Hurd,1 more credit"
+John Ford,"3,759","Henry Fonda,Jane Darwell,John Carradine",The Grapes of Wrath,"Nunnally Johnson,John Steinbeck"
+Peter Weir,566,"Robin Williams,Robert Sean Leonard,Ethan Hawke",Dead Poets Society,Tom Schulman
+Pete Docter,"1,190","Billy Crystal,John Goodman,Mary Gibbs","Monsters, Inc.","Pete Docter,Jill Culton,10 more credits"
+Hideaki Anno,,"Megumi Ogata,Megumi Hayashibara,Yûko Miyamura",Neon Genesis Evangelion: The End of Evangelion,Hideaki Anno
+George Roy Hill,"1,981","Paul Newman,Robert Redford,Katharine Ross",Butch Cassidy and the Sundance Kid,William Goldman
+John G. Avildsen,594,"Sylvester Stallone,Talia Shire,Burt Young",Rocky,Sylvester Stallone
+Rob Reiner,202,"Cary Elwes,Mandy Patinkin,Robin Wright",The Princess Bride,"William Goldman,William Goldman"
+Stanley Kubrick,"1,610","Ryan O'Neal,Marisa Berenson,Patrick Magee",Barry Lyndon,"Stanley Kubrick,William Makepeace Thackeray"
+Hayao Miyazaki,"3,891","Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda",Nausicaä of the Valley of the Wind,"Hayao Miyazaki,Hayao Miyazaki,2 more credits"
+Andrei Tarkovsky,,"Anatoliy Solonitsyn,Ivan Lapikov,Nikolay Grinko",Andrei Rublev,"Andrey Konchalovskiy,Andrei Tarkovsky"
+David Yates,207,"Daniel Radcliffe,Emma Watson,Rupert Grint",Harry Potter and the Deathly Hallows: Part 2,"Steve Kloves,J.K. Rowling"
+Alejandro G. Iñárritu,"3,762","Emilio Echevarría,Gael García Bernal,Goya Toledo",Amores Perros,Guillermo Arriaga
+Tom McCarthy,500,"Mark Ruffalo,Michael Keaton,Rachel McAdams",Spotlight,"Josh Singer,Tom McCarthy"
+Steven Spielberg,613,"Leonardo DiCaprio,Tom Hanks,Christopher Walken",Catch Me If You Can,"Jeff Nathanson,Frank Abagnale Jr.,1 more credit"
+Ron Howard,"1,163","Daniel Brühl,Chris Hemsworth,Olivia Wilde",Rush,Peter Morgan
+Lasse Hallström,,"Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa",Hachi: A Dog's Tale,"Stephen P. Lindsey,Kaneto Shindô"
+James Mangold,439,"Hugh Jackman,Patrick Stewart,Dafne Keen",Logan,"James Mangold,Scott Frank,2 more credits"
+George Miller,158,"Tom Hardy,Charlize Theron,Nicholas Hoult",Mad Max: Fury Road,"George Miller,Brendan McCarthy,1 more credit"
+Terry George,"3,477","Don Cheadle,Sophie Okonedo,Joaquin Phoenix",Hotel Rwanda,"Keir Pearson,Terry George"
+Denis Villeneuve,381,"Hugh Jackman,Jake Gyllenhaal,Viola Davis",Prisoners,Aaron Guzikowski
+Clint Eastwood,"1,540","Hilary Swank,Clint Eastwood,Morgan Freeman",Million Dollar Baby,"Paul Haggis,F.X. Toole"
+Richard Linklater,"1,576","Ethan Hawke,Julie Delpy,Andrea Eckert",Before Sunrise,"Richard Linklater,Kim Krizan"
+Steve McQueen,575,"Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender",12 Years a Slave,"John Ridley,Solomon Northup"
+Terry Jones,"2,507","Graham Chapman,John Cleese,Michael Palin",Monty Python's Life of Brian,"Graham Chapman,John Cleese,4 more credits"
+William Wyler,"2,783","Charlton Heston,Jack Hawkins,Stephen Boyd",Ben-Hur,"Lew Wallace,Karl Tunberg"
+Sidney Lumet,"1,533","Faye Dunaway,William Holden,Peter Finch",Network,Paddy Chayefsky
+Ingmar Bergman,"3,440","Bibi Andersson,Liv Ullmann,Margaretha Krook",Persona,Ingmar Bergman
+Oliver Stone,597,"Charlie Sheen,Tom Berenger,Willem Dafoe",Platoon,Oliver Stone
+Sean Penn,527,"Emile Hirsch,Vince Vaughn,Catherine Keener",Into the Wild,"Sean Penn,Jon Krakauer"
+Rob Reiner,429,"Wil Wheaton,River Phoenix,Corey Feldman",Stand by Me,"Stephen King,Raynold Gideon,1 more credit"
+Joon-ho Bong,"1,842","Kang-ho Song,Sang-kyung Kim,Roe-ha Kim",Memories of Murder,"Joon-ho Bong,Kwang-rim Kim,1 more credit"
+Jim Sheridan,"2,916","Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie",In the Name of the Father,"Gerry Conlon,Terry George,1 more credit"
+Andrei Tarkovsky,,"Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn",Stalker,"Arkadiy Strugatskiy,Boris Strugatskiy,2 more credits"
+Wes Anderson,531,"Ralph Fiennes,F. Murray Abraham,Mathieu Amalric",The Grand Budapest Hotel,"Stefan Zweig,Wes Anderson,2 more credits"
+Peter Weir,751,"Jim Carrey,Ed Harris,Laura Linney",The Truman Show,Andrew Niccol
+David Fincher,246,"Ben Affleck,Rosamund Pike,Neil Patrick Harris",Gone Girl,"Gillian Flynn,Gillian Flynn"
+Damián Szifron,"2,152","Darío Grandinetti,María Marull,Mónica Villa",Wild Tales,"Germán Servidio,Damián Szifron"
+Alfred Hitchcock,,"Laurence Olivier,Joan Fontaine,George Sanders",Rebecca,"Daphne Du Maurier,Robert E. Sherwood,3 more credits"
+Dean DeBlois,"1,143","Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse",How to Train Your Dragon,"William Davies,Dean DeBlois,3 more credits"
+Mel Gibson,352,"Andrew Garfield,Sam Worthington,Luke Bracey",Hacksaw Ridge,"Robert Schenkkan,Andrew Knight"
+Stuart Rosenberg,"2,859","Paul Newman,George Kennedy,Strother Martin",Cool Hand Luke,"Donn Pearce,Frank Pierson,1 more credit"
+Adam Elliot,,"Toni Collette,Philip Seymour Hoffman,Eric Bana",Mary and Max,Adam Elliot
+Steven Spielberg,231,"Sam Neill,Laura Dern,Jeff Goldblum",Jurassic Park,"Michael Crichton,Michael Crichton,1 more credit"
+Quentin Tarantino,180,"Uma Thurman,David Carradine,Daryl Hannah",Kill Bill: Vol. 1,"Quentin Tarantino,Quentin Tarantino,1 more credit"
+Joel Coen,378,"Jeff Bridges,John Goodman,Julianne Moore",The Big Lebowski,"Ethan Coen,Joel Coen"
+Martin Scorsese,306,"Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo",Shutter Island,"Laeta Kalogridis,Dennis Lehane"
+Michael Cimino,953,"Robert De Niro,Christopher Walken,John Cazale",The Deer Hunter,"Michael Cimino,Deric Washburn,3 more credits"
+Clint Eastwood,"1,265","Clint Eastwood,Bee Vang,Christopher Carley",Gran Torino,"Nick Schenk,Dave Johannson,1 more credit"
+Andrew Stanton,771,"Albert Brooks,Ellen DeGeneres,Alexander Gould",Finding Nemo,"Andrew Stanton,Andrew Stanton,2 more credits"
+Sriram Raghavan,,"Ayushmann Khurrana,Tabu,Radhika Apte",Andhadhun,"Arijit Biswas,Yogesh Chandekar,4 more credits"
+Josh Cooley,16,"Tom Hanks,Tim Allen,Annie Potts",Toy Story 4,"John Lasseter,Andrew Stanton,8 more credits"
+Joel Coen,450,"William H. Macy,Frances McDormand,Steve Buscemi",Fargo,"Ethan Coen,Joel Coen"
+John Carpenter,390,"Kurt Russell,Wilford Brimley,Keith David",The Thing,"Bill Lancaster,John W. Campbell Jr."
+Elem Klimov,,"Aleksey Kravchenko,Olga Mironova,Liubomiras Laucevicius",Come and See,"Ales Adamovich,Ales Adamovich,1 more credit"
+Victor Fleming,522,"Clark Gable,Vivien Leigh,Thomas Mitchell",Gone with the Wind,"Margaret Mitchell,Sidney Howard"
+Danny Boyle,674,"Ewan McGregor,Ewen Bremner,Jonny Lee Miller",Trainspotting,"Irvine Welsh,John Hodge"
+M. Night Shyamalan,757,"Bruce Willis,Haley Joel Osment,Toni Collette",The Sixth Sense,M. Night Shyamalan
+Frank Capra,"4,609","James Stewart,Jean Arthur,Claude Rains",Mr. Smith Goes to Washington,"Sidney Buchman,Lewis R. Foster"
+Lenny Abrahamson,414,"Brie Larson,Jacob Tremblay,Sean Bridgers",Room,"Emma Donoghue,Emma Donoghue"
+Ridley Scott,42,"Harrison Ford,Rutger Hauer,Sean Young",Blade Runner,"Hampton Fancher,David Webb Peoples,1 more credit"
+Gavin O'Connor,"1,061","Tom Hardy,Nick Nolte,Joel Edgerton",Warrior,"Gavin O'Connor,Anthony Tambakis,3 more credits"
+Ethan Coen,322,"Tommy Lee Jones,Javier Bardem,Josh Brolin",No Country for Old Men,"Joel Coen,Ethan Coen,1 more credit"
+Alfred Hitchcock,"3,426","Ray Milland,Grace Kelly,Robert Cummings",Dial M for Murder,"Frederick Knott,Frederick Knott"
+Paul Thomas Anderson,673,"Daniel Day-Lewis,Paul Dano,Ciarán Hinds",There Will Be Blood,"Paul Thomas Anderson,Upton Sinclair"
+James McTeigue,690,"Hugo Weaving,Natalie Portman,Rupert Graves",V for Vendetta,"Lilly Wachowski,Lana Wachowski,1 more credit"
+Pete Docter,967,"Amy Poehler,Bill Hader,Lewis Black",Inside Out,"Pete Docter,Ronnie Del Carmen,7 more credits"
+David Lynch,"2,242","Anthony Hopkins,John Hurt,Anne Bancroft",The Elephant Man,"Christopher De Vore,Eric Bergren,3 more credits"
+Elia Kazan,"3,593","Marlon Brando,Karl Malden,Lee J. Cobb",On the Waterfront,"Budd Schulberg,Budd Schulberg,1 more credit"
+Martin Scorsese,125,"Leonardo DiCaprio,Jonah Hill,Margot Robbie",The Wolf of Wall Street,"Terence Winter,Jordan Belfort"
+Ingmar Bergman,,"Max von Sydow,Gunnar Björnstrand,Bengt Ekerot",The Seventh Seal,"Ingmar Bergman,Ingmar Bergman"
+Martin McDonagh,383,"Frances McDormand,Woody Harrelson,Sam Rockwell","Three Billboards Outside Ebbing, Missouri",Martin McDonagh
+Guy Ritchie,"1,244","Jason Flemyng,Dexter Fletcher,Nick Moran","Lock, Stock and Two Smoking Barrels",Guy Ritchie
+Martin Scorsese,815,"Robert De Niro,Sharon Stone,Joe Pesci",Casino,"Nicholas Pileggi,Nicholas Pileggi,1 more credit"
+David Lean,"2,896","William Holden,Alec Guinness,Jack Hawkins",The Bridge on the River Kwai,"Pierre Boulle,Carl Foreman,1 more credit"
+Ron Howard,710,"Russell Crowe,Ed Harris,Jennifer Connelly",A Beautiful Mind,"Akiva Goldsman,Sylvia Nasar"
+Juan José Campanella,"1,705","Ricardo Darín,Soledad Villamil,Pablo Rago",The Secret in Their Eyes,"Eduardo Sacheri,Juan José Campanella,1 more credit"
+Carol Reed,"3,479","Orson Welles,Joseph Cotten,Alida Valli",The Third Man,"Graham Greene,Graham Greene"
+Akira Kurosawa,"3,084","Tatsuya Nakadai,Akira Terao,Jinpachi Nezu",Ran,"Akira Kurosawa,Hideo Oguni,2 more credits"
+Hayao Miyazaki,"1,259","Chieko Baishô,Takuya Kimura,Tatsuya Gashûin",Howl's Moving Castle,"Hayao Miyazaki,Diana Wynne Jones"
+Roman Polanski,"1,505","Jack Nicholson,Faye Dunaway,John Huston",Chinatown,Robert Towne
+Hayao Miyazaki,"2,439","Hitoshi Takagi,Noriko Hidaka,Chika Sakamoto",My Neighbor Totoro,Hayao Miyazaki
+Guillermo del Toro,683,"Ivana Baquero,Ariadna Gil,Sergi López",Pan's Labyrinth,Guillermo del Toro
+Majid Majidi,,"Mohammad Amir Naji,Amir Farrokh Hashemian,Bahare Seddiqi",Children of Heaven,Majid Majidi
+John Sturges,"1,910","Steve McQueen,James Garner,Richard Attenborough",The Great Escape,"Paul Brickhill,James Clavell,1 more credit"
+Martin Scorsese,"1,964","Robert De Niro,Cathy Moriarty,Joe Pesci",Raging Bull,"Jake LaMotta,Joseph Carter,3 more credits"
+Peter Farrelly,98,"Viggo Mortensen,Mahershala Ali,Linda Cardellini",Green Book,"Nick Vallelonga,Brian Hayes Currie,1 more credit"
+Denis Villeneuve,"1,538","Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette",Incendies,"Denis Villeneuve,Wajdi Mouawad,2 more credits"
+Michael Mann,315,"Al Pacino,Robert De Niro,Val Kilmer",Heat,Michael Mann
+Clint Eastwood,"1,075","Clint Eastwood,Gene Hackman,Morgan Freeman",Unforgiven,David Webb Peoples
+John McTiernan,860,"Bruce Willis,Alan Rickman,Bonnie Bedelia",Die Hard,"Roderick Thorp,Jeb Stuart,1 more credit"
+Oliver Hirschbiegel,"1,139","Bruno Ganz,Alexandra Maria Lara,Ulrich Matthes",Downfall,"Bernd Eichinger,Joachim Fest,2 more credits"
+Billy Wilder,"1,583","Marilyn Monroe,Tony Curtis,Jack Lemmon",Some Like It Hot,"Billy Wilder,I.A.L. Diamond,2 more credits"
+Christopher Nolan,143,"Christian Bale,Michael Caine,Ken Watanabe",Batman Begins,"Bob Kane,David S. Goyer,2 more credits"
+Joseph L. Mankiewicz,"1,720","Bette Davis,Anne Baxter,George Sanders",All About Eve,Joseph L. Mankiewicz
+Akira Kurosawa,,"Toshirô Mifune,Machiko Kyô,Masayuki Mori",Rashomon,"Ryûnosuke Akutagawa,Akira Kurosawa,1 more credit"
+Pete Docter,"1,048","Edward Asner,Jordan Nagai,John Ratzenberger",Up,"Pete Docter,Bob Peterson,3 more credits"
+Steven Spielberg,902,"Harrison Ford,Sean Connery,Alison Doody",Indiana Jones and the Last Crusade,"Jeffrey Boam,George Lucas,3 more credits"
+Asghar Farhadi,"2,715","Payman Maadi,Leila Hatami,Sareh Bayat",A Separation,Asghar Farhadi
+Curtis Hanson,"1,254","Kevin Spacey,Russell Crowe,Guy Pearce",L.A. Confidential,"James Ellroy,Brian Helgeland,1 more credit"
+Terry Gilliam,"1,480","Graham Chapman,John Cleese,Eric Idle",Monty Python and the Holy Grail,"Graham Chapman,John Cleese,4 more credits"
+Fritz Lang,"2,122","Brigitte Helm,Alfred Abel,Gustav Fröhlich",Metropolis,"Thea von Harbou,Thea von Harbou"
+Billy Wilder,"2,850","Jack Lemmon,Shirley MacLaine,Fred MacMurray",The Apartment,"Billy Wilder,I.A.L. Diamond"
+Sergio Leone,"2,306","Clint Eastwood,Lee Van Cleef,Gian Maria Volontè",For a Few Dollars More,"Sergio Leone,Fulvio Morsella,2 more credits"
+Brian De Palma,526,"Al Pacino,Michelle Pfeiffer,Steven Bauer",Scarface,Oliver Stone
+Guy Ritchie,456,"Jason Statham,Brad Pitt,Benicio Del Toro",Snatch,Guy Ritchie
+Thomas Vinterberg,"1,340","Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp",The Hunt,"Tobias Lindholm,Thomas Vinterberg"
+Lee Unkrich,379,"Tom Hanks,Tim Allen,Joan Cusack",Toy Story 3,"John Lasseter,Andrew Stanton,2 more credits"
+George Roy Hill,"2,266","Paul Newman,Robert Redford,Robert Shaw",The Sting,David S. Ward
+Robert Mulligan,"1,903","Gregory Peck,John Megna,Frank Overton",To Kill a Mockingbird,"Harper Lee,Horton Foote"
+Gus Van Sant,297,"Robin Williams,Matt Damon,Ben Affleck",Good Will Hunting,"Matt Damon,Ben Affleck"
+Stanley Kubrick,490,"Matthew Modine,R. Lee Ermey,Vincent D'Onofrio",Full Metal Jacket,"Stanley Kubrick,Michael Herr,2 more credits"
+Martin Scorsese,219,"Robert De Niro,Jodie Foster,Cybill Shepherd",Taxi Driver,Paul Schrader
+Jean-Pierre Jeunet,"1,161","Audrey Tautou,Mathieu Kassovitz,Rufus",Amélie,"Guillaume Laurant,Jean-Pierre Jeunet,1 more credit"
+Billy Wilder,"4,412","Fred MacMurray,Barbara Stanwyck,Edward G. Robinson",Double Indemnity,"Billy Wilder,Raymond Chandler,1 more credit"
+Stanley Donen,"2,598","Gene Kelly,Donald O'Connor,Debbie Reynolds",Singin' in the Rain,"Betty Comden,Adolph Green"
+Stanley Kubrick,326,"Malcolm McDowell,Patrick Magee,Michael Bates",A Clockwork Orange,"Stanley Kubrick,Anthony Burgess"
+Quentin Tarantino,50,"Brad Pitt,Diane Kruger,Eli Roth",Inglourious Basterds,Quentin Tarantino
+David Lean,"1,614","Peter O'Toole,Alec Guinness,Anthony Quinn",Lawrence of Arabia,"T.E. Lawrence,Robert Bolt,1 more credit"
+Michel Gondry,622,"Jim Carrey,Kate Winslet,Tom Wilkinson",Eternal Sunshine of the Spotless Mind,"Charlie Kaufman,Michel Gondry,2 more credits"
+Aamir Khan,,"Darsheel Safary,Aamir Khan,Tisca Chopra",Like Stars on Earth,"Amole Gupte,Amole Gupte"
+Stanley Kubrick,236,"Keir Dullea,Gary Lockwood,William Sylvester",2001: A Space Odyssey,"Stanley Kubrick,Arthur C. Clarke"
+Nitesh Tiwari,,"Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh",Dangal,"Piyush Gupta,Shreyas Jain,3 more credits"
+Rajkumar Hirani,"1,428","Aamir Khan,Madhavan,Mona Singh",3 Idiots,"Rajkumar Hirani,Abhijat Joshi,3 more credits"
+John Lasseter,229,"Tom Hanks,Tim Allen,Don Rickles",Toy Story,"John Lasseter,Pete Docter,6 more credits"
+Darren Aronofsky,299,"Ellen Burstyn,Jared Leto,Jennifer Connelly",Requiem for a Dream,"Hubert Selby Jr.,Hubert Selby Jr.,1 more credit"
+Fritz Lang,,"Peter Lorre,Ellen Widmann,Inge Landgut",M,"Thea von Harbou,Fritz Lang"
+Milos Forman,"1,360","F. Murray Abraham,Tom Hulce,Elizabeth Berridge",Amadeus,"Peter Shaffer,Peter Shaffer"
+Richard Marquand,"1,165","Mark Hamill,Harrison Ford,Carrie Fisher",Star Wars: Episode VI - Return of the Jedi,"Lawrence Kasdan,George Lucas,1 more credit"
+Quentin Tarantino,124,"Harvey Keitel,Tim Roth,Michael Madsen",Reservoir Dogs,"Quentin Tarantino,Quentin Tarantino,1 more credit"
+Alfred Hitchcock,"2,537","Cary Grant,Eva Marie Saint,James Mason",North by Northwest,Ernest Lehman
+Alfred Hitchcock,"1,712","James Stewart,Kim Novak,Barbara Bel Geddes",Vertigo,"Alec Coppel,Samuel A. Taylor,2 more credits"
+Makoto Shinkai,561,"Ryûnosuke Kamiki,Mone Kamishiraishi,Ryô Narita",Your Name.,"Makoto Shinkai,Makoto Shinkai,1 more credit"
+Mel Gibson,537,"Mel Gibson,Sophie Marceau,Patrick McGoohan",Braveheart,Randall Wallace
+Orson Welles,"1,414","Orson Welles,Joseph Cotten,Dorothy Comingore",Citizen Kane,"Herman J. Mankiewicz,Orson Welles"
+Quentin Tarantino,2,"Leonardo DiCaprio,Brad Pitt,Margot Robbie",Once Upon a Time ... in Hollywood,Quentin Tarantino
+Wolfgang Petersen,"1,864","Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann",Das Boot,"Wolfgang Petersen,Lothar G. Buchheim"
+Lee Unkrich,386,"Anthony Gonzalez,Gael García Bernal,Benjamin Bratt",Coco,"Lee Unkrich,Jason Katz,4 more credits"
+Sergio Leone,,"Robert De Niro,James Woods,Elizabeth McGovern",Once Upon a Time in America,"Harry Grey,Leonardo Benvenuti,6 more credits"
+Sam Mendes,321,"Kevin Spacey,Annette Bening,Thora Birch",American Beauty,Alan Ball
+James Cameron,460,"Sigourney Weaver,Michael Biehn,Carrie Henn",Aliens,"James Cameron,David Giler,4 more credits"
+Christopher Nolan,225,"Christian Bale,Tom Hardy,Anne Hathaway",The Dark Knight Rises,"Jonathan Nolan,Christopher Nolan,3 more credits"
+Chan-wook Park,762,"Min-sik Choi,Ji-tae Yu,Hye-jeong Kang",Oldboy,"Garon Tsuchiya,Nobuaki Minegishi,4 more credits"
+Billy Wilder,,"Tyrone Power,Marlene Dietrich,Charles Laughton",Witness for the Prosecution,"Agatha Christie,Billy Wilder,2 more credits"
+Hayao Miyazaki,"1,873","Yôji Matsuda,Yuriko Ishida,Yûko Tanaka",Princess Mononoke,"Hayao Miyazaki,Neil Gaiman"
+Andrew Stanton,"1,128","Ben Burtt,Elissa Knight,Jeff Garlin",WALL·E,"Andrew Stanton,Pete Docter,2 more credits"
+Stanley Kubrick,234,"Jack Nicholson,Shelley Duvall,Danny Lloyd",The Shining,"Stephen King,Stanley Kubrick,1 more credit"
+Quentin Tarantino,112,"Jamie Foxx,Christoph Waltz,Leonardo DiCaprio",Django Unchained,Quentin Tarantino
+Stanley Kubrick,,"Kirk Douglas,Ralph Meeker,Adolphe Menjou",Paths of Glory,"Stanley Kubrick,Calder Willingham,2 more credits"
+Stanley Kubrick,"1,209","Peter Sellers,George C. Scott,Sterling Hayden",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Stanley Kubrick,Terry Southern,2 more credits"
+Anthony Russo,74,"Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo",Avengers: Infinity War,"Christopher Markus,Stephen McFeely,14 more credits"
+Florian Henckel von Donnersmarck,"1,164","Ulrich Mühe,Martina Gedeck,Sebastian Koch",The Lives of Others,Florian Henckel von Donnersmarck
+Bob Persichetti,35,"Shameik Moore,Jake Johnson,Hailee Steinfeld",Spider-Man: Into the Spider-Verse,"Phil Lord,Rodney Rothman,1 more credit"
+Billy Wilder,,"William Holden,Gloria Swanson,Erich von Stroheim",Sunset Blvd.,"Charles Brackett,Billy Wilder,1 more credit"
+Charles Chaplin,,"Charles Chaplin,Paulette Goddard,Jack Oakie",The Great Dictator,Charles Chaplin
+Giuseppe Tornatore,"2,747","Philippe Noiret,Enzo Cannavale,Antonella Attili",Cinema Paradiso,"Giuseppe Tornatore,Giuseppe Tornatore,2 more credits"
+Isao Takahata,,"Tsutomu Tatsumi,Ayano Shiraishi,Akemi Yamaguchi",Grave of the Fireflies,"Akiyuki Nosaka,Isao Takahata"
+Ridley Scott,212,"Sigourney Weaver,Tom Skerritt,John Hurt",Alien,"Dan O'Bannon,Ronald Shusett,1 more credit"
+Christopher Nolan,610,"Guy Pearce,Carrie-Anne Moss,Joe Pantoliano",Memento,"Christopher Nolan,Jonathan Nolan"
+Francis Ford Coppola,313,"Martin Sheen,Marlon Brando,Robert Duvall",Apocalypse Now,"John Milius,Francis Ford Coppola,1 more credit"
+Christopher Nolan,357,"Christian Bale,Hugh Jackman,Scarlett Johansson",The Prestige,"Jonathan Nolan,Christopher Nolan,1 more credit"
+Steven Spielberg,547,"Harrison Ford,Karen Allen,Paul Freeman",Raiders of the Lost Ark,"Lawrence Kasdan,George Lucas,1 more credit"
+Ridley Scott,203,"Russell Crowe,Joaquin Phoenix,Connie Nielsen",Gladiator,"David Franzoni,David Franzoni,2 more credits"
+Alfred Hitchcock,"1,512","James Stewart,Grace Kelly,Wendell Corey",Rear Window,"John Michael Hayes,Cornell Woolrich"
+Damien Chazelle,425,"Miles Teller,J.K. Simmons,Melissa Benoist",Whiplash,Damien Chazelle
+Roger Allers,9,"Matthew Broderick,Jeremy Irons,James Earl Jones",The Lion King,"Irene Mecchi,Jonathan Roberts,27 more credits"
+James Cameron,244,"Arnold Schwarzenegger,Linda Hamilton,Edward Furlong",Terminator 2: Judgment Day,"James Cameron,William Wisher"
+Martin Scorsese,226,"Leonardo DiCaprio,Matt Damon,Jack Nicholson",The Departed,"William Monahan,Alan Mak,1 more credit"
+Robert Zemeckis,233,"Michael J. Fox,Christopher Lloyd,Lea Thompson",Back to the Future,"Robert Zemeckis,Bob Gale"
+Olivier Nakache,711,"François Cluzet,Omar Sy,Anne Le Ny",The Intouchables,"Olivier Nakache,Philippe Pozzo di Borgo,1 more credit"
+Charles Chaplin,"4,682","Charles Chaplin,Paulette Goddard,Henry Bergman",Modern Times,Charles Chaplin
+Roman Polanski,844,"Adrien Brody,Thomas Kretschmann,Frank Finlay",The Pianist,"Ronald Harwood,Wladyslaw Szpilman"
+Sergio Leone,783,"Henry Fonda,Charles Bronson,Claudia Cardinale",Once Upon a Time in the West,"Sergio Donati,Sergio Leone,3 more credits"
+Michael Curtiz,"1,166","Humphrey Bogart,Ingrid Bergman,Paul Henreid",Casablanca,"Julius J. Epstein,Philip G. Epstein,3 more credits"
+Tony Kaye,399,"Edward Norton,Edward Furlong,Beverly D'Angelo",American History X,David McKenna
+Alfred Hitchcock,587,"Anthony Perkins,Janet Leigh,Vera Miles",Psycho,"Joseph Stefano,Robert Bloch"
+Christopher Nolan,104,"Matthew McConaughey,Anne Hathaway,Jessica Chastain",Interstellar,"Jonathan Nolan,Christopher Nolan"
+Frank Darabont,486,"Tom Hanks,Michael Clarke Duncan,David Morse",The Green Mile,"Stephen King,Frank Darabont"
+Luc Besson,235,"Jean Reno,Gary Oldman,Natalie Portman",Léon: The Professional,Luc Besson
+Bryan Singer,507,"Kevin Spacey,Gabriel Byrne,Chazz Palminteri",The Usual Suspects,Christopher McQuarrie
+Steven Spielberg,333,"Tom Hanks,Matt Damon,Tom Sizemore",Saving Private Ryan,Robert Rodat
+Hayao Miyazaki,541,"Daveigh Chase,Suzanne Pleshette,Miyu Irino",Spirited Away,Hayao Miyazaki
+Roberto Benigni,986,"Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini",Life Is Beautiful,"Vincenzo Cerami,Roberto Benigni"
+Frank Capra,"1,589","James Stewart,Donna Reed,Lionel Barrymore",It's a Wonderful Life,"Frances Goodrich,Albert Hackett,3 more credits"
+Jonathan Demme,177,"Jodie Foster,Anthony Hopkins,Lawrence A. Bonney",The Silence of the Lambs,"Thomas Harris,Ted Tally"
+George Lucas,409,"Mark Hamill,Harrison Ford,Carrie Fisher",Star Wars: Episode IV - A New Hope,George Lucas
+Fernando Meirelles,803,"Alexandre Rodrigues,Leandro Firmino,Matheus Nachtergaele",City of God,"Paulo Lins,Bráulio Mantovani"
+Anthony Russo,5,"Robert Downey Jr.,Chris Evans,Mark Ruffalo",Avengers: Endgame,"Christopher Markus,Stephen McFeely,4 more credits"
+David Fincher,303,"Morgan Freeman,Brad Pitt,Kevin Spacey",Se7en,Andrew Kevin Walker
+Akira Kurosawa,896,"Toshirô Mifune,Takashi Shimura,Keiko Tsushima",Seven Samurai,"Akira Kurosawa,Shinobu Hashimoto,1 more credit"
+Lana Wachowski,145,"Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss",The Matrix,"Lilly Wachowski,Lana Wachowski"
+Martin Scorsese,274,"Robert De Niro,Ray Liotta,Joe Pesci",Goodfellas,"Nicholas Pileggi,Nicholas Pileggi,1 more credit"
